@@ -1,0 +1,15 @@
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\bin\Debug\netcoreapp3.1\SpoonSmpCore.dll
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.csprojAssemblyReference.cache
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.AssemblyInfoInputs.cache
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.AssemblyInfo.cs
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\bin\Debug\netcoreapp3.1\SpoonSmpInfrastructure.deps.json
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\bin\Debug\netcoreapp3.1\SpoonSmpInfrastructure.runtimeconfig.json
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\bin\Debug\netcoreapp3.1\SpoonSmpInfrastructure.runtimeconfig.dev.json
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\bin\Debug\netcoreapp3.1\SpoonSmpInfrastructure.dll
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\bin\Debug\netcoreapp3.1\SpoonSmpInfrastructure.pdb
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\bin\Debug\netcoreapp3.1\SpoonSmpCore.pdb
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.csproj.CopyComplete
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.dll
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.pdb
+C:\Users\raulf\source\repos\SpoonAPI\SpoonSmpInfrastructure\obj\Debug\netcoreapp3.1\SpoonSmpInfrastructure.genruntimeconfig.cache
